@@ -1,0 +1,22 @@
+body {
+  margin-top: 25%;
+  text-align: center;
+  font-family: 'Courier New', Courier, 'Lucida Sans';
+}
+
+h1, h2, h3 {
+  font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+  font-size: 24px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;
+}
+
+img {
+  max-width: 100px;
+}
+ footer {
+  margin-top: 75%;
+  position: bottom;
+ }
